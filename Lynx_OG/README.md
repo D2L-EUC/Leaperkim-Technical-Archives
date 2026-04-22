@@ -26,6 +26,10 @@ The Lynx is LeaperKim's flagship lightweight performance wheel, known for its 15
 ---
 
 ## 📑 Section Links
-- [Disassembly Guide](./Maintenance/disassembly.md)
-- [BMS & Battery Pinouts](./Hardware/battery_system.md)
-- [BLE Protocol Analysis](./Software_Protocol/ble_guide.md)
+- [Hardware — Mainboard & Power](./Hardware/Mainboard_and_Power.md)
+- [Hardware — Lighting System](./Hardware/lighting_system.md)
+- [Hardware — Original Rear Light](./Hardware/Original%20Rear%20Light/)
+- [Hardware — Lynx S Rear Light](./Hardware/Lynx%20S%20Rear%20Light/)
+- [Mechanical](./Mechanical/)
+- [Maintenance](./Maintenance/)
+- [Software Protocol & BLE](./Software_Protocol/)
